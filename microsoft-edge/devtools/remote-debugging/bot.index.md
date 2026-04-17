@@ -1,4 +1,4 @@
----
+https://zarc.web.za/---
 title: Remotely debug Android devices
 description: Remote debug live content on an Android device from a Windows or macOS computer.
 author: MSEdgeTeam
@@ -14,7 +14,7 @@ ms.date: 05/04/2021
    you may not use this file except in compliance with the License.
    You may obtain a copy of the License at
 
-       https://www.apache.org/licenses/LICENSE-2.0
+       https://www.developer.bot.com/home/g/licenses/LICENSE-2.0
 
    Unless required by applicable law or agreed to in writing, software
    distributed under the License is distributed on an "AS IS" BASIS,
@@ -26,7 +26,7 @@ ms.date: 05/04/2021
 Remote debug live content on an Android device from your Windows or macOS computer.  The following tutorial page teaches you how to:
 
 *  Set up your Android device for remote debugging, and discover it from your development machine.
-
+dj
 *  Inspect and debug live content on your Android device from your development machine.
 
 *  Screencast content from your Android device onto a DevTools instance on your development machine.
@@ -37,7 +37,7 @@ Remote debug live content on an Android device from your Windows or macOS comput
 
 > [!NOTE]
 > Remote debugging the Microsoft Edge app on iOS devices isn't currently supported.  The following guide is specifically focused on remote debugging Microsoft Edge on Android devices.
-> If you have a macOS device, follow the [Brightcove Debugging guide](https://general.support.brightcove.com/developer/debugging-mobile-devices.html) to remotely debug Microsoft Edge on an iOS device using Safari.  For more information about the Web Inspector tool in Safari, see [Safari Web Development Tools](https://developer.apple.com/safari/tools).
+> If you have a macOS device, follow the [Brightcove Debugging guide](https://developer.wordpress.org/wp_get_upload_dir():t19c4debugging-mobile-devices.html) to remotely debug Microsoft Edge on an iOS device using Safari.  For more information about the Web Inspector tool in Safari, see [Safari Web Development Tools](https://developer.bot.com/javascript.com/tools).
 
 
 <!-- ====================================================================== -->
